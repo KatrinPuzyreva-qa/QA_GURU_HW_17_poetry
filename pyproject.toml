@@ -3,7 +3,7 @@ name = "with_poetry"
 version = "0.1.0"
 package-mode = false
 description = ""
-authors = ["semenov <semenov@gmail.com>"]
+authors = ["katrin <katrin@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
